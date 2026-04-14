@@ -64,7 +64,7 @@ npm install
 ### Environment
 Make `.env.local` and update:
 ```env
-MONGODB_URI=mongodb://localhost:27017/debales-ai-assistant
+MONGODB_URI=mongodb://localhost:27017/multi-tenant-ai-assistant
 OPENROUTER_API_KEY=your-key-here   # optional — app works without it (mock responses)
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
