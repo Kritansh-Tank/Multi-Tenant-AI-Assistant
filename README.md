@@ -62,7 +62,7 @@ npm install
 ```
 
 ### Environment
-Copy `.env.local` and update:
+Make `.env.local` and update:
 ```env
 MONGODB_URI=mongodb://localhost:27017/debales-ai-assistant
 OPENROUTER_API_KEY=your-key-here   # optional — app works without it (mock responses)
