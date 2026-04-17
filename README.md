@@ -50,6 +50,25 @@ src/
 
 ---
 
+## User Interface
+- Users
+  
+  ![Users](assets/users.png)
+  
+- Projects
+
+  ![Projects](assets/projects.png)
+  
+- Admin Dashboard
+
+  ![Admin Dashboard](assets/dashboard.png)
+  
+- Assistant Conversation
+
+  ![Assistant Conversation](assets/conversation.png)
+
+---
+
 ## Setup
 
 ### Prerequisites
